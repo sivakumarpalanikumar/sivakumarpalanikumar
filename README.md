@@ -1,4 +1,4 @@
-- 👋 Hi, I’m passionate about technology
+- 👋 Hi, I’m passionate about Technology
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning AWS & Terraform
 - 💞️ I’m looking to collaborate on real time projects
