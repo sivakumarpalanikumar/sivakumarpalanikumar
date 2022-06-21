@@ -1,6 +1,6 @@
 - 👋 Hi, I’m passionate about Technology
 - 👀 I’m interested in DevSecOps
-- 🌱 I’m currently learning AWS & Terraform
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on real time projects
 - 📫 How to reach me pksivakumar2000@gmail.com
 
