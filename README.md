@@ -1,6 +1,6 @@
 - 👋 Hi, I’m passionate about Technology
 - 👀 I’m interested in innovation
-- 🌱 I’m currently working on AWS
+- 🌱 I’m currently working in AWS Cloud
 - 💞️ I’m looking to collaborate on real time projects
 - 📫 How to reach me pksivakumar2000@gmail.com
 
